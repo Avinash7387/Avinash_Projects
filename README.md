@@ -7,4 +7,4 @@ POWER BI PROJECT.
 SQL CASE STUDY.
 
 #[TIME-SERIES-ANALYSIS](https://github.com/Avinash7387/TIME-SERIES-ANALYSIS)
-This time series project.
+This is TIME SERIES PROJECT.
