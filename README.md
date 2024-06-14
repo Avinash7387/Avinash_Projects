@@ -1,4 +1,4 @@
-# Avinash_Projects
+#My Projects
 
 #[TIME-SERIES-ANALYSIS](https://github.com/Avinash7387/TIME-SERIES-ANALYSIS)
 This time series project.
